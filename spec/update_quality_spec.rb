@@ -1,7 +1,7 @@
 require './item'
 require './gilded_rose'
 
-describe '' do
+describe GildedRose do
     it "Normal: decrementa sell_in y quality en uno cada día" do
         items = []
         items.push Item.new "+5 Dexterity Vest",10,20
