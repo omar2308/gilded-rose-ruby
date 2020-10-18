@@ -13,4 +13,11 @@ describe GildedRose do
         expect(items[0].quality).to eq 19
 
     end
+
+    it '' do         # ¿qué regla estamos ejemplificando?
+        items = []
+        items.push Item.new "Aged Brie", 2, 0
+
+        pending('falta implementar') 
+    end
 end
