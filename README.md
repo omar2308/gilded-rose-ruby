@@ -1,11 +1,11 @@
-![](https://github.com/yamitcar/gilded-rose-ruby/workflows/Ruby/badge.svg)
+![](https://github.com/kleer-la/gilded-rose-ruby/workflows/Ruby/badge.svg)
 
 withTest:  
-![](https://github.com/yamitcar/gilded-rose-ruby/workflows/Ruby/badge.svg?branch=withTest)
+![](https://github.com/kleer-lar/gilded-rose-ruby/workflows/Ruby/badge.svg?branch=withTest)
 
 para ver el reporte de analisis de codigo:
 
-https://yamitcar.github.io/gilded-rose-ruby/
+https://kleer-la.github.io/gilded-rose-ruby/
 
 # Especificaciones de la Rosa Dorada (Gilded Rose)
 
