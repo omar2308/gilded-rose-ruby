@@ -1,9 +1,9 @@
 ![](https://github.com/kleer-la/gilded-rose-ruby/workflows/Ruby/badge.svg)
 
 withTest:  
-![](https://github.com/kleer-lar/gilded-rose-ruby/workflows/Ruby/badge.svg?branch=withTest)
+![](https://github.com/kleer-la/gilded-rose-ruby/workflows/Ruby/badge.svg?branch=withTest)
 
-para ver el reporte de analisis de codigo:
+para ver el reporte de análisis de código:
 
 https://kleer-la.github.io/gilded-rose-ruby/overview.html
 
