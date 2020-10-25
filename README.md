@@ -5,7 +5,7 @@ withTest:
 
 para ver el reporte de analisis de codigo:
 
-https://kleer-la.github.io/gilded-rose-ruby/
+https://kleer-la.github.io/gilded-rose-ruby/overview.html
 
 # Especificaciones de la Rosa Dorada (Gilded Rose)
 
